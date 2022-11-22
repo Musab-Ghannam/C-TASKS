@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\tasklast21 11 22\tasklast21 11 22\obj\Debug\tasklast21 11 22.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\tasklast21 11 22\tasklast21 11 22\obj\Debug\tasklast21 11 22.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\tasklast21 11 22\tasklast21 11 22\obj\Debug\tasklast21 11 22.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\tasklast21 11 22\tasklast21 11 22\bin\Debug\tasklast21 11 22.exe.config
+C:\Users\dell\source\repos\tasklast21 11 22\tasklast21 11 22\bin\Debug\tasklast21 11 22.exe
+C:\Users\dell\source\repos\tasklast21 11 22\tasklast21 11 22\bin\Debug\tasklast21 11 22.pdb
+C:\Users\dell\source\repos\tasklast21 11 22\tasklast21 11 22\obj\Debug\tasklast21 11 22.exe
+C:\Users\dell\source\repos\tasklast21 11 22\tasklast21 11 22\obj\Debug\tasklast21 11 22.pdb
+C:\Users\dell\C-TASKS\21 11 2022\tasklast21 11 22\tasklast21 11 22\bin\Debug\tasklast21 11 22.exe.config
+C:\Users\dell\C-TASKS\21 11 2022\tasklast21 11 22\tasklast21 11 22\bin\Debug\tasklast21 11 22.exe
+C:\Users\dell\C-TASKS\21 11 2022\tasklast21 11 22\tasklast21 11 22\bin\Debug\tasklast21 11 22.pdb
+C:\Users\dell\C-TASKS\21 11 2022\tasklast21 11 22\tasklast21 11 22\obj\Debug\tasklast21 11 22.csproj.AssemblyReference.cache
+C:\Users\dell\C-TASKS\21 11 2022\tasklast21 11 22\tasklast21 11 22\obj\Debug\tasklast21 11 22.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\C-TASKS\21 11 2022\tasklast21 11 22\tasklast21 11 22\obj\Debug\tasklast21 11 22.csproj.CoreCompileInputs.cache
+C:\Users\dell\C-TASKS\21 11 2022\tasklast21 11 22\tasklast21 11 22\obj\Debug\tasklast21 11 22.exe
+C:\Users\dell\C-TASKS\21 11 2022\tasklast21 11 22\tasklast21 11 22\obj\Debug\tasklast21 11 22.pdb
