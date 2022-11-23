@@ -66,8 +66,9 @@ namespace taskcsharp22_11_2022
 
             Console.WriteLine("\n");
             Console.WriteLine("task4");
+            Console.WriteLine("enter numbers between them , to sum them");
 
-           string[] SUM =Console.ReadLine().Split(',');
+            string[] SUM =Console.ReadLine().Split(',');
 
 
            
@@ -117,7 +118,7 @@ namespace taskcsharp22_11_2022
             {
                 Console.WriteLine("\t");
 
-                for(int o = 4; o > i; o--)
+                for(int o =4; o > i; o--)
                 {
                     Console.Write(" ");
                 }
@@ -136,25 +137,30 @@ namespace taskcsharp22_11_2022
             Console.WriteLine("\n");
             Console.WriteLine("task7");
 
-            int tot = 0;
+            int tot = 1;
             for (int i = 0; i < 4; i++)
             {
                 Console.WriteLine("\t");
-              
 
-                
+                for (int o = 4; o > i; o--)
+                {
+                    Console.Write(" ");
+                }
                 for (int j = 0; j <= i; j++)
                 {
-                    tot += 1;
-                    Console.Write(tot);
+
+
+
+                    Console.Write(tot + " ");
+                    tot++;
+
 
                 }
-
 
             }
 
 
-            Console.WriteLine("\n");
+                Console.WriteLine("\n");
             Console.WriteLine("task8");
             Console.WriteLine("\n");
           double group = 0;

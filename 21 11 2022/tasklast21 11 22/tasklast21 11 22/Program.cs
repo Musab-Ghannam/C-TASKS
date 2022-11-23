@@ -10,7 +10,7 @@ namespace tasklast21_11_22
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ENTER TWO NUMBERS");
+            Console.WriteLine("ENTER TWO NUMBERS to know the bigger");
 
             int x = Convert.ToInt16(Console.ReadLine());
             int y = Convert.ToInt16(Console.ReadLine());
@@ -29,7 +29,7 @@ namespace tasklast21_11_22
 
             Console.WriteLine("\n");
 
-
+            Console.WriteLine("ENTER one number to know the sign");
             int negative = Convert.ToInt16(Console.ReadLine());
 
             if (negative < 0)
@@ -46,6 +46,8 @@ namespace tasklast21_11_22
             }
 
             Console.WriteLine("\n");
+
+            Console.WriteLine(" from higher value to lower (1,2,8)");
 
             int sort = 1;
             int w = 2;
@@ -90,7 +92,7 @@ namespace tasklast21_11_22
 
 
             Console.WriteLine("\n");
-
+            Console.WriteLine("print the higher value");
 
             int a = 3; int b = 4; int c = 5; int d = 100, r = 500;
 
@@ -126,16 +128,23 @@ namespace tasklast21_11_22
 
 
             Console.WriteLine("\n");
+            Console.WriteLine("convert from kilometers to mph");
 
             float kilometers = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine(kilometers * 0.62137119 + "mph");
 
             Console.WriteLine("\n");
 
+            Console.WriteLine("convert from hours to minutes");
+
             int hours = Convert.ToInt16(Console.ReadLine());
             int minutes = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine(hours * 60 + minutes + "minutes");
 
+
+            Console.WriteLine("\n");
+
+            Console.WriteLine("enter total time to detail it");
 
             int totalhours = Convert.ToInt16(Console.ReadLine());
 
@@ -143,6 +152,7 @@ namespace tasklast21_11_22
 
 
             Console.WriteLine("\n");
+            Console.WriteLine("same length");
 
             string[] equal = { "ahmad", "mohammad", "rami", "khalid" };
 
