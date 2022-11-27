@@ -82,18 +82,23 @@ namespace task_23_11_2022
             string[] pass = { "123", "456", "789" };
 
             for (int i = 0; i < a.Length; i++)
+
+                for(int j=0; j < email.Length; j++) { 
             {
-                if (a[i] == email[i] && b[i] == pass[i])
+                if (a[i] == email[j] && b[i] == pass[j])
                 {
                     res = "pass";
+                            break;
                 }
                 else
                 {
                      res = "fail";
+                    
                 }
+                    }
 
-           
-            }
+
+                }
 
             Console.WriteLine(res);
         }
@@ -143,7 +148,7 @@ namespace task_23_11_2022
                 {
                   fyear= Convert.ToInt16(a[i]);
                 if (fyear == j){
-                        Console.WriteLine(a[i]);
+                        Console.WriteLine($"the {a[i]} is a leap year \t");
 
             }
 
@@ -175,7 +180,7 @@ namespace task_23_11_2022
                 if (prim)
                 {
 
-                    Console.WriteLine(prime);
+                    Console.WriteLine($"{prime} is prime number \t");
                 }
                 prim = true;
             }
@@ -196,38 +201,38 @@ namespace task_23_11_2022
         static void Main(string[] args)
         {
 
-            Console.WriteLine(" TASK 1 \t enter values to see the sum and AVG");
+            //Console.WriteLine(" TASK 1 \t enter values to see the sum and AVG");
 
-            string[] r = Console.ReadLine().Split(',');
-
-
+            //string[] r = Console.ReadLine().Split(',');
 
 
-            sumandavg(r);
 
 
-            Console.WriteLine(" TASK 2 \t enter values to see the CUBE");
-
-            string[] c = Console.ReadLine().Split(',');
-
-            cube(c);
+            //sumandavg(r);
 
 
-            Console.WriteLine(" TASK 3 \t years greater than 1950");
+            //Console.WriteLine(" TASK 2 \t enter values to see the CUBE");
 
-            int[] year = { 1950, 1955, 1980, 1920, 1900, 2015 };
+            //string[] c = Console.ReadLine().Split(',');
 
-            getyears(year);
+            //cube(c);
 
-            Console.WriteLine(" TASK 4 \t give me the age in years to show the age in days");
 
-            double myage = Convert.ToDouble(Console.ReadLine());
+            //Console.WriteLine(" TASK 3 \t years greater than 1950");
 
-            Console.WriteLine(agedays(myage));
+            //int[] year = { 1950, 1955, 1980, 1920, 1900, 2015 };
 
-            Console.WriteLine(" TASK 5 \thow many legs in your farm");
+            //getyears(year);
 
-            animals(2, 3, 5);
+            //Console.WriteLine(" TASK 4 \t give me the age in years to show the age in days");
+
+            //double myage = Convert.ToDouble(Console.ReadLine());
+
+            //Console.WriteLine(agedays(myage));
+
+            //Console.WriteLine(" TASK 5 \thow many legs in your farm");
+
+            //animals(2, 3, 5);
             Console.WriteLine(" TASK 6 \t password and emaill pass or not pass");
 
 
@@ -238,7 +243,7 @@ namespace task_23_11_2022
 
             Console.WriteLine(" TASK 7 \t power of numbers");
 
-            int bas = 5; int pow = -3;
+            int bas = 5; int pow = 3;
 
             power(bas, pow);
 
