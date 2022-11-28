@@ -1,0 +1,8 @@
+C:\Users\dell\source\repos\28 11 2022 task oop\28 11 2022 task oop\bin\Debug\28 11 2022 task oop.exe.config
+C:\Users\dell\source\repos\28 11 2022 task oop\28 11 2022 task oop\bin\Debug\28 11 2022 task oop.exe
+C:\Users\dell\source\repos\28 11 2022 task oop\28 11 2022 task oop\bin\Debug\28 11 2022 task oop.pdb
+C:\Users\dell\source\repos\28 11 2022 task oop\28 11 2022 task oop\obj\Debug\28 11 2022 task oop.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\28 11 2022 task oop\28 11 2022 task oop\obj\Debug\28 11 2022 task oop.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\28 11 2022 task oop\28 11 2022 task oop\obj\Debug\28 11 2022 task oop.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\28 11 2022 task oop\28 11 2022 task oop\obj\Debug\28 11 2022 task oop.exe
+C:\Users\dell\source\repos\28 11 2022 task oop\28 11 2022 task oop\obj\Debug\28 11 2022 task oop.pdb

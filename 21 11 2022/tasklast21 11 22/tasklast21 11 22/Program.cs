@@ -112,8 +112,6 @@ namespace tasklast21_11_22
                 Console.WriteLine(c);
             }
 
-
-
             else if (d > a && d > b && d > r && d > c)
             {
 
