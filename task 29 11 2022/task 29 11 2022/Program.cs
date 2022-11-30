@@ -10,6 +10,30 @@ namespace task_29_11_2022
     {
         static void Main(string[] args)
         {
+
+            //DateTime bday = new DateTime(1996, 5, 20);
+            //DateTime now = DateTime.Today;
+            //int age = now.Year - bday.Year;
+            //if (now.Day > bday.Day)
+            //{
+            //    int mounth = now.Month - bday.Month;
+
+            //    int day = now.Day - bday.Day;
+
+            //}
+            //else
+            //{
+               
+            //    Console.WriteLine(now.Day);
+            //    int mounth = (now.Month - bday.Month) - 1;
+            //    int day = now.Day;
+            //}
+            //Console.WriteLine(now.Day - bday.Day);
+            //Console.WriteLine(now.Day);
+            ////Console.WriteLine(bday.Day);
+
+            ////int day2= now.Day-bday.Day;
+            //Console.WriteLine($"{age} year {mounth} mounth {day} day ");
             Console.WriteLine("PLEASE ENTER YOUR NAME");
             string name = Console.ReadLine();
 

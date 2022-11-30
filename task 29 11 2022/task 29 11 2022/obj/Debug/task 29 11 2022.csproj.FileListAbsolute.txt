@@ -6,3 +6,11 @@ C:\Users\dell\source\repos\task 29 11 2022\task 29 11 2022\obj\Debug\task 29 11 
 C:\Users\dell\source\repos\task 29 11 2022\task 29 11 2022\obj\Debug\task 29 11 2022.csproj.CoreCompileInputs.cache
 C:\Users\dell\source\repos\task 29 11 2022\task 29 11 2022\obj\Debug\task 29 11 2022.exe
 C:\Users\dell\source\repos\task 29 11 2022\task 29 11 2022\obj\Debug\task 29 11 2022.pdb
+C:\Users\dell\C-TASKS\task 29 11 2022\task 29 11 2022\bin\Debug\task 29 11 2022.exe.config
+C:\Users\dell\C-TASKS\task 29 11 2022\task 29 11 2022\bin\Debug\task 29 11 2022.exe
+C:\Users\dell\C-TASKS\task 29 11 2022\task 29 11 2022\bin\Debug\task 29 11 2022.pdb
+C:\Users\dell\C-TASKS\task 29 11 2022\task 29 11 2022\obj\Debug\task 29 11 2022.csproj.AssemblyReference.cache
+C:\Users\dell\C-TASKS\task 29 11 2022\task 29 11 2022\obj\Debug\task 29 11 2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\C-TASKS\task 29 11 2022\task 29 11 2022\obj\Debug\task 29 11 2022.csproj.CoreCompileInputs.cache
+C:\Users\dell\C-TASKS\task 29 11 2022\task 29 11 2022\obj\Debug\task 29 11 2022.exe
+C:\Users\dell\C-TASKS\task 29 11 2022\task 29 11 2022\obj\Debug\task 29 11 2022.pdb
