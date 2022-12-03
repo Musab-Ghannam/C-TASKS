@@ -1,0 +1,4 @@
+tell me about your self:    EXCELENT
+give me example:    VERY GOOD
+what is your name:    VERY GOOD
+how are you:    VERY GOOD
